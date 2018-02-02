@@ -1,9 +1,21 @@
+html, body {margin:0; padding:0; height:100%;}
 
 footer {
-  background-color: black;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 40px;
-  color: white;
+    background-color: black;
+    color: white;
 }
+header {
+    color: white;
+    }
+.navbar {
+    margin-bottom: 0;
+}
+#menuLateral {
+    background-color: #c4c4c4;
+    word-wrap: break-word;
+    height: 100%;
+   
+}
+#mainSection {
+    word-wrap: break-word;
+    height: 100%;}
